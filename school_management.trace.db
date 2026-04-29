@@ -1,0 +1,6 @@
+2026-03-18 18:27:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Aucune donnée disponible
+No data is available [2000-220]
+2026-03-18 18:28:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: Aucune donnée disponible
+No data is available [2000-220]
